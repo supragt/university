@@ -1,4 +1,4 @@
-#include <iostream>
+п»ї#include <iostream>
 #include <clocale>
 using namespace std;
 
@@ -8,17 +8,17 @@ int sum(int a, int b)
 }
 
 void main() {
-	/* Задание - 1 */
+	/* Р—Р°РґР°РЅРёРµ - 1 */
     cout << "Hello World! \n";
 	setlocale(LC_ALL, "Russian");
-	cout << "Привет, мир!" << endl;
+	cout << "РџСЂРёРІРµС‚, РјРёСЂ!" << endl;
 
-	/* Задание - 2 */
+	/* Р—Р°РґР°РЅРёРµ - 2 */
 	int a = 12;
 	int b = 16;
 
 	cout << "a+b=" << a << "+" << b << "=" << sum(12, 16);
 
-	/* Задание - 3 */
+	/* Р—Р°РґР°РЅРёРµ - 3 */
 
 }
